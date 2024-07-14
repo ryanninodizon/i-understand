@@ -7,3 +7,4 @@
 - language to use might be: kotlin, java, typescript and c#
 - delayed starting the PoC project because of ther priorities :), will start next week instead
 - next
+- Read something related to PoC
