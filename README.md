@@ -9,3 +9,4 @@
 - next
 - Read something related to PoC
 - Read more
+- tried to create initial Android app using Kotlin
