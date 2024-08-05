@@ -12,3 +12,4 @@
 - tried to create initial Android app using Kotlin
 - no time to do something for this now. will resume next month(aug. 1)
 - next
+- 
